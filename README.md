@@ -12,6 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ElijahPoblete&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahPoblete&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg">
+  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg"> 
+    <img alt = "github-snake" src ="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg" /> 
+    </picture
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElijahPoblete&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
