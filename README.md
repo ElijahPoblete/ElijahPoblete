@@ -71,10 +71,9 @@
 </p>
 
 <h2 align="center">🐍 GitHub Snake</h2>
-<p align="center">
   <picture>
     <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg" />
     <source media="(prefer-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" /> 
     <img alt="github-snake" src="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" />
   </picture>
-</p>
+
