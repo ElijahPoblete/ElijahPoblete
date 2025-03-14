@@ -7,12 +7,6 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
-<picture>
-  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg" />
-  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg" /> 
-    <img alt = "github-snake" src ="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg" /> 
-    </picture>
     
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ElijahPoblete&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -31,5 +25,10 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ElijahPoblete) 
 
+<picture>
+  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg" />
+  <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg" /> 
+  <img alt = "github-snake" src ="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" /> 
+</picture>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
