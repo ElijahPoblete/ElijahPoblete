@@ -1,3 +1,6 @@
+<picture>
+    <source = "coollogo_com-5619161.png" />
+</picture>
 # 💫 About Me:
 🔭 I am currently studying Bachelor of Science in Information Technology<br>👯 I am Sudying in cavite State University - Naic, Cavite<br>🤝 I’m looking for way to connect with other developers<br>💬 Feel free to Ask me about anything!
 
