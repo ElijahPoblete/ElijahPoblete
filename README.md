@@ -1,8 +1,11 @@
+
 <img src="coollogo_com-5619161.png" alt="GitHub Banner" width="100%" /><br/>
 
     
 # 💫 About Me:
+<p align="center".
 🔭 I am currently studying Bachelor of Science in Information Technology<br>👯 I am Sudying in cavite State University - Naic, Cavite<br>🤝 I’m looking for way to connect with other developers<br>💬 Feel free to Ask me about anything!
+</p>
 
 
 ## 🌐 Socials:
