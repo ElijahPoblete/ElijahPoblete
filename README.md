@@ -75,5 +75,5 @@
   <picture>
     <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg" alt="GitHub Snake" />
     <source media="(prefer-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" alt="GitHub Snake" /> 
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake.svg" alt="GitHub Snake" />
   </picture>
