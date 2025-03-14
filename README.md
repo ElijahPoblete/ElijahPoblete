@@ -1,4 +1,4 @@
-<source srcset= "https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/main/coollogo_com-5619161.png"/>
+<img src="coollogo_com-5619161.png" alt="GitHub Banner" width="100%" /><br/>
 
     
 # 💫 About Me:
