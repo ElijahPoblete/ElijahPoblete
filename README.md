@@ -16,7 +16,8 @@
   <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-dark.svg">
   <source media="(prefer-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg"> 
     <img alt = "github-snake" src ="https://raw.githubusercontent.com/ElijahPoblete/ElijahPoblete/output/github-snake-.svg" /> 
-    </picture
+    </picture>
+    
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElijahPoblete&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
